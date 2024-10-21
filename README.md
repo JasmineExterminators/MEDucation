@@ -1,5 +1,5 @@
 # MEDucation
-https://x.thunkable.com/projects/66207bdeca51139eb2bb5b91/openProject/designer
+Project Link: https://x.thunkable.com/projects/66207bdeca51139eb2bb5b91/openProject/designer
 
 ## Mission Statement
 With the advancement of medicine and the improvement of accessibility to both prescription and over-the-counter medication, professional terms and medical jargon are becoming increasingly prevalent in our daily lives. This, however, often leads to confusion from consumers. According to the Institute of Medicine, over 90 million Americans struggle with low health literacy; a large part of this problem concerns difficulty reading or understanding pill bottle labels. Studies have shown that the small size of the label fonts is a leading cause of low literacy. Thus, our mission is to close the gap between medical professionals and medication users by providing consumers with a tool that helps them read and decode pill bottle labels to confidently understand the contents of their medication.
