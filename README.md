@@ -1,2 +1,13 @@
 # MEDucation
 https://x.thunkable.com/projects/66207bdeca51139eb2bb5b91/openProject/designer
+
+## Mission Statement
+With the advancement of medicine and the improvement of accessibility to both prescription and over-the-counter medication, professional terms and medical jargon are becoming increasingly prevalent in our daily lives. This, however, often leads to confusion from consumers. According to the Institute of Medicine, over 90 million Americans struggle with low health literacy; a large part of this problem concerns difficulty reading or understanding pill bottle labels. Studies have shown that the small size of the label fonts is a leading cause of low literacy. Thus, our mission is to close the gap between medical professionals and medication users by providing consumers with a tool that helps them read and decode pill bottle labels to confidently understand the contents of their medication.
+
+## Features
+- Full medical dictionary of terms and definitions provided by Harvard University. Terms in the database that are found on pill bottle labels will be highlighted and their definitions will be shown directly on the screen. --> Consumers can easily read and understand their pill bottle labels all on one screen. Definitions for medical terms are provided on the spot: no need for searching on the web or filtering through other dictionaries!
+- Allows users to personalize their prescription plan and set alerts to take their pills at the right time. --> This allows consumers to more easily follow directives given on the pill bottle, ensuring their well-being! The automatic reminders will help users remember to take their pills on time.
+- The app operates locally and does not require the internet to use the enlarging feature or view saved history. --> Consumers can access the app anywhere, anytime, and on-the-go. Consumers do not need to connect to the internet to re-scan previously scanned medication.
+- The text enlarger uses the phone’s camera to scan the pill bottle label and to display the text in an easily legible font on the screen. --> Consumers with difficulty reading small fonts or who have vision problems can more easily read the labels on their pill bottles.
+- The text from scanned pill bottle labels can be read aloud using the phone’s speakers. --> This allows consumers with vision problems to hear the text on the pill bottle and understand the words.
+- Previous scanned labels can be saved under the medications “History” tab for viewing at any time. --> This allows the information from the labels to be stored in the consumers’ MEDucation account. Now, consumers can access the information from the pill bottle labels anytime, and do not need to worry about the original label being lost, discarded, or damaged.
